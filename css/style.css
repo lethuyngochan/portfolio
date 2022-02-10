@@ -1,0 +1,87 @@
+.top-menu {
+    background-color: black;
+    text-align: right;
+}
+
+.top-menu a {
+    color: white;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+.grey {
+    color: #ccbcbc;
+}
+
+.center {
+    text-align: center;
+}
+
+.vertical-align-bottom {
+    vertical-align: bottom;
+}
+
+p, ul {
+    line-height: 190%;
+}
+
+@font-face {
+    font-family: SVNGilroyMedium;
+    src: url(../fonts/SVN-Gilroy-Medium.otf);
+}
+
+@font-face {
+    font-family: SVNGilroyMedium;
+    src: url(../fonts/SVN-Gilroy-Bold.otf);
+    font-weight: bold;
+}
+
+* {
+    font-family: SVNGilroyMedium, Helvetica, sans-serif;
+}
+
+body {
+    font-size: 100%;
+}
+
+.menu-item-active {
+    border-left: 5px solid #EB5757;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.border-none {
+    border: none;
+}
+
+article {
+    margin: 10px;
+}
+
+.margin-top-50 {
+    margin-top: 50px;
+}
+
+.transparent {
+    background-color: transparent;
+}
+
+.flex-container {
+    display: flex;
+}
+
+article {
+    width: 200px;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
