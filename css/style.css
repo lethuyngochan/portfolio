@@ -85,3 +85,20 @@ article {
 .flex-wrap {
     flex-wrap: wrap;
 }
+
+.pos-rel {
+    position: relative;
+}
+.display-inline-block {
+    display: inline-block;
+}
+.search-input {
+    padding: 11px 20px;
+}
+.pos-absolute {
+    position: absolute;
+}
+.search-icon {
+    right: 20px;
+    top: 12px;
+}
